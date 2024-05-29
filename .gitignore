@@ -160,4 +160,8 @@ cython_debug/
 #.idea/
 
 # Ignore the 'temp' directory
-data/
+data_yellow
+data_green
+output
+mlruns
+mlflow.db
