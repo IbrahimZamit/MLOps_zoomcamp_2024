@@ -28,3 +28,7 @@
 - Enables effortless CI/CD for up-to-date ML models with lineage
 - Simplifies maintenance of model health and governance
 - Advocates for responsible AI practices like interpretability and fairness
+
+---
+
+This content is based on [MLOps explained | Machine Learning Essentials](https://youtu.be/ZVWg18AXXuE).
