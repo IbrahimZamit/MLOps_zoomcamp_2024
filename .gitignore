@@ -162,6 +162,7 @@ cython_debug/
 # Ignore the 'temp' directory
 data_yellow
 data_green
-output
+artifacts_local
 mlruns
-mlflow.db
+
+
